@@ -7,8 +7,8 @@ public class gitdetails {
 	public static void main(String[] args) {
 		List li = new ArrayList();
 		li.add(10);
-		li.add("JAVA");
-		li.add(25550.520);
+		li.add("selenium");
+		li.add(1234.256);
 		li.add('m');
 		System.out.println(li);
 		int size = li.size();
